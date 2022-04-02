@@ -70,3 +70,6 @@ Source code can be obtained therein.
 7. Building a new track. You can easily build a new track by using the prebuilt road prefabs located in Assets/RoadKit/Prefabs click and drag the road prefab pieces onto the editor, you can snap road pieces together easily by using vertex snapping by holding down "v" and dragging a road piece close to another piece.
 
 ![Self-Driving Car Simulator](./sim_image.png)
+
+### Dificulties
+While connecting the two sever you will face the issue, to overcome it install previous version of socketio (4.2.1).
