@@ -18,6 +18,10 @@ All the assets in this repository require Unity. Please follow the instructions 
 
 ### Available Game Builds (Precompiled builds of the simulator)
 
+<p align="center">
+  <img src="https://github.com/Sushruthan222/ML-OpenCv-projects/blob/main/Advanced%20Lane%20detection/output%20gif.gif" width="480">
+</p>
+
 #### Term 1
 
 Instructions: Download the zip file, extract it and run the executable file.
